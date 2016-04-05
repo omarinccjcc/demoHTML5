@@ -28,9 +28,28 @@ header,nav,footer{
 	text-align: center;
 }
 
+section#contenedor{
+	background: white;
+	margin:0 auto;
+	max-width: 960px;
+	padding: 0;
+	text-align: center;
+}
 
+section#principal, aside{
+	background: #1E6381;
+	display: inline-block;
+	margin: 0.25em auto;
+	min-height: 200px;
+	padding: 0.25em;
+	text-align: center;
+	vertical-align: top;
+	width: 65%;
+}
 
-
+aside{
+	width: 30%;
+}
 
 
 
