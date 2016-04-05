@@ -1,1 +1,26 @@
 /* Este es un comentario */
+*{
+	margin:0;
+	padding:0;
+}
+
+/* 12pt = 16px = 100% = 1em */
+body{
+	background: #212121 url(../img/fondo.jpg);
+	color: #FFF;
+	font-family: verdana;
+	font-size: 2em;
+}
+
+h1{
+	color: #F60;
+	margin: 0.25em auto;
+	text-align: center;
+	text-shadow: 10px 10px 5px rgba(255,255,255,0.5);
+}
+
+
+
+
+
+
