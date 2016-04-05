@@ -22,11 +22,12 @@ h1{
 header,nav,footer{
 	background: #1E6381;
 	border-radius: 0.5em;
-	margin: 0.5 auto;
+	margin: 0.5em auto;
 	max-width: 960px;
-	padding: 0.285em;
+	padding: 0.25em;
 	text-align: center;
 }
+
 
 
 
