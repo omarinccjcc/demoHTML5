@@ -38,6 +38,7 @@ section#contenedor{
 
 section#principal, aside{
 	background: #1E6381;
+	border-radius: 0.5em;
 	display: inline-block;
 	margin: 0.25em auto;
 	min-height: 200px;
@@ -46,10 +47,25 @@ section#principal, aside{
 	vertical-align: top;
 	width: 65%;
 }
-
 aside{
 	width: 30%;
 }
+article{
+	background: #011e30;
+	border-radius: 0.5em;
+	min-height: 140px;
+	padding: 0.25em;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
